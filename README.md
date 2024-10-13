@@ -1,3 +1,2 @@
-# projetosCeub
-
-## Neste repositório armazenaremos todos os arquivo relacionados aos trabalhos realizados para o curso de Análise e Desenvolvimento de Sistemas
+# Projetos
+### Neste repositório armazenaremos todos os arquivos de projetos atuais de programação
