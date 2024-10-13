@@ -1,0 +1,2 @@
+# Exercícios de Pensamento Computacional
+### Neste repositório armazenaremos todos os arquivo relacionados aos trabalhos realizados para a matéria de Pensamento Computacional e Resolução de Problemas do curso de ADS do UniCeub
